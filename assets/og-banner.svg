@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="130" y1="70" x2="1080" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F0E6"/>
+      <stop offset="1" stop-color="#D6D0C2"/>
+    </linearGradient>
+    <linearGradient id="card" x1="724" y1="90" x2="1076" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#303B37"/>
+      <stop offset="1" stop-color="#1E2624"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="630" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#111615" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="930" cy="122" r="68" fill="#C6B89E" fill-opacity="0.36"/>
+  <circle cx="165" cy="535" r="94" fill="#AEB9AE" fill-opacity="0.28"/>
+  <path d="M0 562C110 520 210 516 316 526C420 536 518 574 646 574C794 574 912 488 1056 488C1102 488 1151 498 1200 520V630H0V562Z" fill="#B7C1B7" fill-opacity="0.25"/>
+
+  <g transform="translate(104 112)">
+    <text x="0" y="0" fill="#1E2624" font-family="Georgia, 'Times New Roman', serif" font-size="60" letter-spacing="3.2">HIROTAKA</text>
+    <text x="0" y="72" fill="#1E2624" font-family="Georgia, 'Times New Roman', serif" font-size="60" letter-spacing="3.2">NIFUJI</text>
+    <text x="0" y="128" fill="#6C7B73" font-family="'Trebuchet MS', Arial, sans-serif" font-size="18" letter-spacing="5">CODEX ROLEPLAY SKILL</text>
+    <text x="0" y="196" fill="#31403C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">Calm. Deadpan. Quietly caring.</text>
+    <text x="0" y="236" fill="#31403C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">A Wotakoi-inspired conversational persona.</text>
+
+    <g transform="translate(0 304)">
+      <rect x="0" y="0" width="246" height="94" rx="18" fill="#FBF8F2" stroke="#D3C7B4" stroke-width="2.5"/>
+      <circle cx="40" cy="36" r="14" fill="#2F3A36"/>
+      <circle cx="208" cy="36" r="14" fill="#2F3A36"/>
+      <rect x="58" y="22" width="132" height="28" rx="12" fill="#2F3A36"/>
+      <rect x="60" y="65" width="118" height="7" rx="3.5" fill="#A2AEA7"/>
+      <rect x="60" y="79" width="90" height="7" rx="3.5" fill="#C0C7C1"/>
+    </g>
+
+    <g transform="translate(270 304)">
+      <rect x="0" y="0" width="122" height="94" rx="18" fill="#2F3A36"/>
+      <path d="M38 36H84C96.1503 36 106 45.8497 106 58C106 70.1503 96.1503 80 84 80H38C25.8497 80 16 70.1503 16 58C16 45.8497 25.8497 36 38 36Z" stroke="#E8E1D5" stroke-width="6"/>
+      <circle cx="40" cy="58" r="6" fill="#E8E1D5"/>
+      <circle cx="82" cy="58" r="6" fill="#E8E1D5"/>
+      <path d="M61 46V70" stroke="#E8E1D5" stroke-width="6" stroke-linecap="round"/>
+      <path d="M49 58H73" stroke="#E8E1D5" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="680" y="82" width="372" height="426" rx="28" fill="url(#card)"/>
+  </g>
+  <rect x="742" y="152" width="216" height="18" rx="9" fill="#889B92" fill-opacity="0.18"/>
+  <rect x="742" y="184" width="154" height="12" rx="6" fill="#889B92" fill-opacity="0.14"/>
+
+  <g opacity="0.96">
+    <path d="M788 280C788 259.013 805.013 242 826 242H858C878.987 242 896 259.013 896 280V300C896 320.987 878.987 338 858 338H826C805.013 338 788 320.987 788 300V280Z" stroke="#ECE5D9" stroke-width="12"/>
+    <path d="M896 280C896 259.013 913.013 242 934 242H966C986.987 242 1004 259.013 1004 280V300C1004 320.987 986.987 338 966 338H934C913.013 338 896 320.987 896 300V280Z" stroke="#ECE5D9" stroke-width="12"/>
+    <path d="M896 288H884" stroke="#ECE5D9" stroke-width="12" stroke-linecap="round"/>
+    <path d="M782 291H758" stroke="#ECE5D9" stroke-width="12" stroke-linecap="round"/>
+    <path d="M1032 291H1008" stroke="#ECE5D9" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <path d="M846 376C872 354 920 354 946 376" stroke="#ECE5D9" stroke-width="9" stroke-linecap="round" opacity="0.82"/>
+  <path d="M824 430H960" stroke="#71827A" stroke-width="5" stroke-linecap="round" opacity="0.56"/>
+  <path d="M824 454H914" stroke="#71827A" stroke-width="5" stroke-linecap="round" opacity="0.42"/>
+</svg>

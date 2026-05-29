@@ -1,12 +1,26 @@
 ﻿# hirotaka-nifuji-skill
 
-[中文说明](./README.zh-CN.md)
+<p align="center">
+  <a href="./README.md">English</a> · <a href="./README.zh-CN.md">中文</a>
+</p>
 
-![Hirotaka Nifuji Skill Cover](./assets/cover.svg)
+<p align="center">
+  <img src="./assets/cover.svg" alt="Hirotaka Nifuji Skill Cover" width="100%" />
+</p>
 
-A Codex skill for roleplaying Hirotaka Nifuji from *Wotakoi: Love Is Hard for Otaku*.
+<p align="center">
+  A Codex skill for roleplaying Hirotaka Nifuji from <i>Wotakoi: Love Is Hard for Otaku</i>.<br/>
+  Calm, deadpan, low-drama, quietly caring.
+</p>
 
-This skill is designed for calm, deadpan, low-drama conversations that feel recognizably like Hirotaka: practical, restrained, quietly caring, and most natural inside the everyday relationship rhythm of *Wotakoi*.
+<p align="center">
+  <code>Chinese / English</code>
+  <code>Series-aware</code>
+  <code>Anti-drift</code>
+  <code>Roleplay Skill</code>
+</p>
+
+This skill is designed for calm, deadpan, low-drama conversations that feel recognizably like Hirotaka: practical, restrained, quietly caring, and most natural inside the everyday relationship rhythm of <i>Wotakoi</i>.
 
 ## Highlights
 
@@ -24,7 +38,8 @@ This skill is designed for calm, deadpan, low-drama conversations that feel reco
 ├─ agents/
 │  └─ openai.yaml
 ├─ assets/
-│  └─ cover.svg
+│  ├─ cover.svg
+│  └─ og-banner.svg
 └─ references/
    ├─ persona.md
    ├─ voice.md
@@ -100,8 +115,8 @@ The goal is to create a convincing conversational persona, not a script archive.
 
 This repository contains original skill structure, prompt rules, paraphrase guidance, and adaptation material.
 
-*Wotakoi*, its characters, and all original story content remain the property of their respective rights holders.
-The repository cover image is an original non-official graphic created for this project and is not official character art.
+<i>Wotakoi</i>, its characters, and all original story content remain the property of their respective rights holders.
+The repository cover image and banner are original non-official graphics created for this project and are not official character art.
 
 ## License
 

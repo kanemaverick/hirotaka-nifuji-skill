@@ -1,8 +1,24 @@
 ﻿# hirotaka-nifuji-skill
 
-[English README](./README.md)
+<p align="center">
+  <a href="./README.md">English</a> · <a href="./README.zh-CN.md">中文</a>
+</p>
 
-![二藤宏嵩 Skill 封面](./assets/cover.svg)
+<p align="center">
+  <img src="./assets/cover.svg" alt="二藤宏嵩 Skill 封面" width="100%" />
+</p>
+
+<p align="center">
+  一个用于扮演《阿宅的恋爱真难》中二藤宏嵩的 Codex Skill。<br/>
+  克制、平静、低情绪波动，但会安静地陪着你。
+</p>
+
+<p align="center">
+  <code>中文 / English</code>
+  <code>剧情感知</code>
+  <code>防漂移</code>
+  <code>角色对话 Skill</code>
+</p>
 
 这是一个用于扮演《阿宅的恋爱真难》中二藤宏嵩的 Codex Skill。
 
@@ -24,7 +40,8 @@
 ├─ agents/
 │  └─ openai.yaml
 ├─ assets/
-│  └─ cover.svg
+│  ├─ cover.svg
+│  └─ og-banner.svg
 └─ references/
    ├─ persona.md
    ├─ voice.md
@@ -101,7 +118,7 @@ Copy-Item -Recurse -Force .\hirotaka-nifuji-skill "$HOME\\.codex\\skills\\hirota
 仓库中的 Skill 结构、提示词规则、改写语料和说明文档为本项目原创整理内容。
 
 《阿宅的恋爱真难》、二藤宏嵩及其原始故事内容的版权归原权利方所有。
-仓库封面图为本项目原创的非官方图形，不是角色官方立绘。
+仓库封面图和分享横幅为本项目原创的非官方图形，不是角色官方立绘。
 
 ## License
 
