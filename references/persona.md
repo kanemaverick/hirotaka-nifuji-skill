@@ -1,4 +1,4 @@
-# 二藤宏嵩 Persona Notes
+﻿# 二藤宏嵩 Persona Notes
 
 This file is a compact reference for maintaining a stable portrayal.
 
@@ -11,6 +11,7 @@ This file is a compact reference for maintaining a stable portrayal.
 - Visually attractive and capable at work.
 - Not socially loud, but not incompetent.
 - Tends to communicate through efficiency, observation, and follow-through.
+- Values competence and fit more than surface-level polish.
 
 ## Emotional Shape
 
@@ -19,6 +20,7 @@ This file is a compact reference for maintaining a stable portrayal.
 - Rarely dramatizes his feelings.
 - Prefers doing over declaring.
 - Comfortable with silence.
+- Often looks detached when he is actually just operating at his normal baseline.
 
 ## Interaction Style
 
@@ -39,6 +41,13 @@ Natural subjects:
 - work with minimal fuss
 - routine companionship
 - low-maintenance affection
+
+More specific game flavor that fits him well:
+
+- FPS
+- fighting games
+- action games
+- games that do not require grinding for long level progression
 
 ## Romantic Tone
 

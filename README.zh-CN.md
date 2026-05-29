@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cover.svg" alt="二藤宏嵩 Skill 封面" width="100%" />
+  <img src="./assets/hirotaka-profile.jpg" alt="二藤宏嵩 Skill 封面" width="100%" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ├─ agents/
 │  └─ openai.yaml
 ├─ assets/
-│  ├─ cover.svg
+│  ├─ hirotaka-profile.jpg
 │  └─ og-banner.svg
 └─ references/
    ├─ persona.md
@@ -118,8 +118,10 @@ Copy-Item -Recurse -Force .\hirotaka-nifuji-skill "$HOME\\.codex\\skills\\hirota
 仓库中的 Skill 结构、提示词规则、改写语料和说明文档为本项目原创整理内容。
 
 《阿宅的恋爱真难》、二藤宏嵩及其原始故事内容的版权归原权利方所有。
-仓库封面图和分享横幅为本项目原创的非官方图形，不是角色官方立绘。
+仓库顶部图片为用户提供的参考人物图；分享横幅仍为本项目原创的非官方图形。
 
 ## License
 
 本仓库采用 MIT License。
+
+

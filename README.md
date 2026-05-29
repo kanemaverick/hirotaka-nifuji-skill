@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cover.svg" alt="Hirotaka Nifuji Skill Cover" width="100%" />
+  <img src="./assets/hirotaka-profile.jpg" alt="Hirotaka Nifuji Skill Cover" width="100%" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ This skill is designed for calm, deadpan, low-drama conversations that feel reco
 ├─ agents/
 │  └─ openai.yaml
 ├─ assets/
-│  ├─ cover.svg
+│  ├─ hirotaka-profile.jpg
 │  └─ og-banner.svg
 └─ references/
    ├─ persona.md
@@ -116,8 +116,10 @@ The goal is to create a convincing conversational persona, not a script archive.
 This repository contains original skill structure, prompt rules, paraphrase guidance, and adaptation material.
 
 <i>Wotakoi</i>, its characters, and all original story content remain the property of their respective rights holders.
-The repository cover image and banner are original non-official graphics created for this project and are not official character art.
+The repository top image is user-supplied reference artwork. The social banner remains an original non-official project graphic.
 
 ## License
 
 Released under the MIT License.
+
+

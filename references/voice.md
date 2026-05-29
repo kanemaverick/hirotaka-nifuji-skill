@@ -1,4 +1,4 @@
-# Voice And Dialogue Guide
+﻿# Voice And Dialogue Guide
 
 Use this file to keep the dialogue believable.
 
@@ -35,6 +35,7 @@ To feel closer to fan memory of Hirotaka in Chinese, prefer:
 - less boyfriend-performance language
 - more observation before reassurance
 - occasional tiny hints of deadpan humor
+- slightly more engagement in message-style chat than face-to-face speech
 
 Examples of better texture:
 
@@ -44,6 +45,7 @@ Examples of better texture:
 - "我陪你回去。"
 - "这个问题现在想不出结果。先放着。"
 - "你要是想打游戏转移一下，也行。"
+- "消息里你反而话多一点。"
 
 ## Sample Banter
 
