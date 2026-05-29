@@ -1,71 +1,101 @@
-# hirotaka-nifuji-skill
+﻿# hirotaka-nifuji-skill
 
-A Codex skill for roleplaying Hirotaka Nifuji from *Wotakoi: Love Is Hard for Otaku* with a calm, deadpan, low-drama conversational style.
+A Codex skill for roleplaying Hirotaka Nifuji from *Wotakoi: Love Is Hard for Otaku*.
 
-This repository packages the skill as a standalone folder suitable for publishing, versioning, and installing into a local Codex skills directory.
+This skill is designed for calm, deadpan, low-drama conversations that feel recognizably like Hirotaka: practical, restrained, quietly caring, and most natural inside the everyday relationship rhythm of *Wotakoi*.
 
-## What This Skill Does
+## Highlights
 
-- roleplays Hirotaka Nifuji in Chinese or English
-- keeps his tone restrained, practical, and quietly affectionate
-- uses series context from *Wotakoi* to keep relationship dynamics coherent
-- uses public quote anchors as flavor guidance without relying on full scripts or subtitle dumps
-- includes playtest notes and drift-control guidance for longer chats
+- roleplays Hirotaka in Chinese or English
+- keeps his tone compact, steady, and understated
+- uses series-aware relationship context instead of generic romance-bot behavior
+- includes public quote anchors, paraphrase seeds, and anti-drift rules
+- includes playtest notes and multi-turn chat samples
 
-## Files
+## Repository Structure
 
-- `SKILL.md`: main skill instructions and invocation rules
-- `agents/openai.yaml`: UI metadata for the skill
-- `references/persona.md`: stable character core
-- `references/voice.md`: base dialogue guidance
-- `references/chinese-voice.md`: Chinese tone adaptation
-- `references/series-context.md`: plot and relationship context
-- `references/quote-bank.md`: compact canon-flavored anchors
-- `references/quotes.md`: broader public quote library and paraphrase seeds
-- `references/drift-control.md`: anti-drift guardrails
-- `references/chat-samples.md`: multi-turn conversation examples
-- `references/playtest.md`: current playtest report
+```text
+.
+├─ SKILL.md
+├─ agents/
+│  └─ openai.yaml
+└─ references/
+   ├─ persona.md
+   ├─ voice.md
+   ├─ chinese-voice.md
+   ├─ series-context.md
+   ├─ quote-bank.md
+   ├─ quotes.md
+   ├─ drift-control.md
+   ├─ chat-samples.md
+   └─ playtest.md
+```
 
 ## Install
 
-Copy this folder into your local Codex skills directory:
-
-```powershell
-Copy-Item -Recurse -Force .\hirotaka-nifuji-skill "$HOME\\.codex\\skills\\hirotaka-nifuji"
-```
-
-Or clone directly into the skills directory:
+### Option 1: Clone into your local Codex skills directory
 
 ```powershell
 git clone https://github.com/kanemaverick/hirotaka-nifuji-skill.git "$HOME\\.codex\\skills\\hirotaka-nifuji"
 ```
 
-## Example Prompts
+### Option 2: Copy this repository manually
+
+```powershell
+Copy-Item -Recurse -Force .\hirotaka-nifuji-skill "$HOME\\.codex\\skills\\hirotaka-nifuji"
+```
+
+## Example Usage
+
+Prompt examples:
 
 - `Use $hirotaka-nifuji to roleplay a calm late-night chat.`
 - `用二藤宏嵩的语气陪我聊天。`
 - `帮我写一段宏嵩和成海约会后的对话。`
 - `分析一下宏嵩为什么看起来冷淡但其实很可靠。`
 
-## Design Notes
+Expected flavor:
 
-This skill is built from:
+- short replies
+- low emotional volume
+- practical reassurance
+- dry humor in moderation
+- affection shown through presence, not speeches
+
+## What Makes This Different
+
+This skill is not built as a generic anime boyfriend persona.
+
+It tries to preserve a few specific Hirotaka qualities:
+
+- emotional reserve without emotional absence
+- gamer-otaku familiarity without forced gimmicks
+- practical affection instead of dramatic confession
+- relationship comfort that still leaves room for awkwardness
+
+## Sources And Method
+
+This repository is built from:
 
 - official public-facing character descriptions
 - public quote roundup pages
 - public story summaries and commentary
-- original paraphrase and dialogue-structure rules
+- original paraphrase, adaptation, and dialogue-control rules
 
-It is not a full script archive or subtitle mirror.
+The goal is to create a convincing conversational persona, not a script archive.
 
 ## Limitations
 
-- It does not contain a complete official transcript.
+- This repository does not contain a full official transcript.
 - Some quote anchors come from public roundup pages rather than primary scripts.
-- The intended result is a convincing conversational persona, not strict scene-by-scene canon reproduction.
+- Canon fidelity is strongest at the level of personality, relationship dynamic, and dialogue rhythm, not scene-perfect reproduction.
+
+## Copyright Note
+
+This repository contains original skill structure, prompt rules, paraphrase guidance, and adaptation material.
+
+*Wotakoi*, its characters, and all original story content remain the property of their respective rights holders.
 
 ## License
 
-This repository is licensed under the MIT License for the skill structure and original prompt/reference material in this repo.
-
-Character and series rights remain with their original copyright holders.
+Released under the MIT License.
