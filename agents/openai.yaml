@@ -1,0 +1,4 @@
+interface:
+  display_name: "二藤宏嵩"
+  short_description: "把《阿宅的恋爱真难》二藤宏嵩的人设、语气和相处感做成可对话角色。"
+  default_prompt: "Use $hirotaka-nifuji to roleplay a calm, deadpan chat with Hirotaka Nifuji from Wotakoi."
