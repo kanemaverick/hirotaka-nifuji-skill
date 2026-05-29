@@ -1,5 +1,9 @@
 ﻿# hirotaka-nifuji-skill
 
+[中文说明](./README.zh-CN.md)
+
+![Hirotaka Nifuji Skill Cover](./assets/cover.svg)
+
 A Codex skill for roleplaying Hirotaka Nifuji from *Wotakoi: Love Is Hard for Otaku*.
 
 This skill is designed for calm, deadpan, low-drama conversations that feel recognizably like Hirotaka: practical, restrained, quietly caring, and most natural inside the everyday relationship rhythm of *Wotakoi*.
@@ -19,6 +23,8 @@ This skill is designed for calm, deadpan, low-drama conversations that feel reco
 ├─ SKILL.md
 ├─ agents/
 │  └─ openai.yaml
+├─ assets/
+│  └─ cover.svg
 └─ references/
    ├─ persona.md
    ├─ voice.md
@@ -95,6 +101,7 @@ The goal is to create a convincing conversational persona, not a script archive.
 This repository contains original skill structure, prompt rules, paraphrase guidance, and adaptation material.
 
 *Wotakoi*, its characters, and all original story content remain the property of their respective rights holders.
+The repository cover image is an original non-official graphic created for this project and is not official character art.
 
 ## License
 

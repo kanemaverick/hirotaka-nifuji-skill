@@ -1,0 +1,69 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="180" y1="120" x2="1390" y2="810" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F1EA"/>
+      <stop offset="1" stop-color="#DDD6C8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="1020" y1="170" x2="1420" y2="730" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#33403C"/>
+      <stop offset="1" stop-color="#1E2624"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1600" height="900" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#0E1312" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1310" cy="150" r="92" fill="#C8B89C" fill-opacity="0.36"/>
+  <circle cx="240" cy="770" r="126" fill="#B5C0B6" fill-opacity="0.30"/>
+  <path d="M0 796C138 748 258 734 394 746C507 756 631 809 772 809C947 809 1084 681 1253 681C1377 681 1480 727 1600 778V900H0V796Z" fill="#A8B6AE" fill-opacity="0.22"/>
+
+  <g filter="url(#shadow)">
+    <rect x="870" y="124" width="578" height="652" rx="36" fill="url(#panel)"/>
+  </g>
+
+  <rect x="930" y="226" width="354" height="28" rx="14" fill="#90A59B" fill-opacity="0.18"/>
+  <rect x="930" y="274" width="278" height="18" rx="9" fill="#90A59B" fill-opacity="0.14"/>
+
+  <g opacity="0.94">
+    <path d="M1046 444C1046 417.49 1067.49 396 1094 396H1136C1162.51 396 1184 417.49 1184 444V468C1184 494.51 1162.51 516 1136 516H1094C1067.49 516 1046 494.51 1046 468V444Z" stroke="#E6E0D4" stroke-width="14"/>
+    <path d="M1184 444C1184 417.49 1205.49 396 1232 396H1274C1300.51 396 1322 417.49 1322 444V468C1322 494.51 1300.51 516 1274 516H1232C1205.49 516 1184 494.51 1184 468V444Z" stroke="#E6E0D4" stroke-width="14"/>
+    <path d="M1184 454H1170" stroke="#E6E0D4" stroke-width="14" stroke-linecap="round"/>
+    <path d="M1040 459H1008" stroke="#E6E0D4" stroke-width="14" stroke-linecap="round"/>
+    <path d="M1360 459H1328" stroke="#E6E0D4" stroke-width="14" stroke-linecap="round"/>
+  </g>
+
+  <path d="M1117 568C1150 541 1218 541 1251 568" stroke="#E6E0D4" stroke-width="10" stroke-linecap="round" opacity="0.82"/>
+  <path d="M1088 626H1280" stroke="#72877D" stroke-width="6" stroke-linecap="round" opacity="0.55"/>
+  <path d="M1088 656H1216" stroke="#72877D" stroke-width="6" stroke-linecap="round" opacity="0.42"/>
+
+  <g transform="translate(152 164)">
+    <text x="0" y="0" fill="#202725" font-family="Georgia, 'Times New Roman', serif" font-size="80" letter-spacing="4">HIROTAKA</text>
+    <text x="0" y="94" fill="#202725" font-family="Georgia, 'Times New Roman', serif" font-size="80" letter-spacing="4">NIFUJI</text>
+    <text x="3" y="170" fill="#62726A" font-family="'Trebuchet MS', Arial, sans-serif" font-size="24" letter-spacing="5">CODEX ROLEPLAY SKILL</text>
+    <text x="3" y="232" fill="#3C4743" font-family="'Trebuchet MS', Arial, sans-serif" font-size="31">Calm. Deadpan. Quietly caring.</text>
+    <text x="3" y="278" fill="#3C4743" font-family="'Trebuchet MS', Arial, sans-serif" font-size="31">A Wotakoi-inspired conversational persona.</text>
+  </g>
+
+  <g transform="translate(156 534)">
+    <rect x="0" y="0" width="318" height="136" rx="22" fill="#F6F2EB" stroke="#D3C6B1" stroke-width="3"/>
+    <circle cx="50" cy="49" r="18" fill="#2F3B37"/>
+    <circle cx="268" cy="49" r="18" fill="#2F3B37"/>
+    <rect x="68" y="33" width="182" height="32" rx="14" fill="#2F3B37"/>
+    <rect x="74" y="92" width="170" height="9" rx="4.5" fill="#9DA9A2"/>
+    <rect x="74" y="110" width="130" height="9" rx="4.5" fill="#B6BEB8"/>
+  </g>
+
+  <g transform="translate(502 534)">
+    <rect x="0" y="0" width="228" height="136" rx="22" fill="#2D3734"/>
+    <path d="M78 46H150C168.778 46 184 61.2223 184 80V84C184 102.778 168.778 118 150 118H78C59.2223 118 44 102.778 44 84V80C44 61.2223 59.2223 46 78 46Z" stroke="#E6E0D4" stroke-width="8"/>
+    <circle cx="83" cy="82" r="8" fill="#E6E0D4"/>
+    <circle cx="145" cy="82" r="8" fill="#E6E0D4"/>
+    <path d="M113 66V98" stroke="#E6E0D4" stroke-width="8" stroke-linecap="round"/>
+    <path d="M97 82H129" stroke="#E6E0D4" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <text x="156" y="756" fill="#5B6B64" font-family="'Trebuchet MS', Arial, sans-serif" font-size="20" letter-spacing="2.8">
+    ORIGINAL REPOSITORY COVER · NOT OFFICIAL CHARACTER ART
+  </text>
+</svg>
